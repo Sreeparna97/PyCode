@@ -10,3 +10,4 @@ for num in range(1, max+1):
         total = total + num
 
 print("The Sum of Even Numbers from 1 to {0} = {1}".format(num, total))
+print(number is odd)
