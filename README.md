@@ -1,2 +1,2 @@
 # PyCode
-Repository shows various python programs on numbers
+Repository shows various python, java programs on numbers
